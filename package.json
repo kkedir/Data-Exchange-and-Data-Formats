@@ -1,0 +1,15 @@
+{
+  "name": "module03",
+  "version": "1.0.0",
+  "description": "Data Exchange and Data Formats",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "korme kedir",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
+}
